@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "I try make a book"
+  author: "Norah Jones"
+  date: "23.06.2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - ch_p.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

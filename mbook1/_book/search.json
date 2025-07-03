@@ -1,0 +1,162 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "I try make a book",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\nрассмотрим функцию \\[\nf(x) = \\sin 2 x\n\\]\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html",
+    "href": "ch_p.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\nрассмотрим функцию \\[\nf(x) = \\sin 2 x\n\\]\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#скриншоты-из-поста-валерии-анатольевны",
+    "href": "ch_p.html#скриншоты-из-поста-валерии-анатольевны",
+    "title": "2  глава 1 glava 1",
+    "section": "3.1 Скриншоты из поста Валерии Анатольевны",
+    "text": "3.1 Скриншоты из поста Валерии Анатольевны\n [https://t.me/c/2356397530/187](https://t.me/c/2356397530/187)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#тема-преобразование-распределений",
+    "href": "ch_p.html#тема-преобразование-распределений",
+    "title": "2  глава 1 glava 1",
+    "section": "3.2 Тема Преобразование распределений",
+    "text": "3.2 Тема Преобразование распределений\n\n3.2.1 одна с.в.\nprimer-preobrazovanie_N_ReLU.pdf разбор\nта же тема, разбор - zadacha-raspredeleniya-preobrazovaniya_s.pdf\n\n\n3.2.2 совместное распределение нескольких с.в., зависимые, независимые формула свертки и т.п. {#совместное-распределение-нескольких-с.в.,-зависимые,-независимые-формула-свертки-и-т.п.}\nстр. 2-4 в файле zadachi-sm_2020-02-07_s.pdf\n\n\nС её помощью можно решать задачи типа следующей\n\nПримечание. Выше речь про стандартное распределение Коши с плотностью",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#характеристические-функции",
+    "href": "ch_p.html#характеристические-функции",
+    "title": "2  глава 1 glava 1",
+    "section": "3.3 Характеристические функции",
+    "text": "3.3 Характеристические функции\nЗнать, как вычисляются хар.ф-ции следующих одномерных распределений\n\nБернуллиевского (было во время лекции)\n\nБиномиального\n\nПуассоновского (разобрано на лекции)\n\nГеометрического\n\nРавномерного в отрезке [c,d]\n\nПоказательного\n\nНормального (разобрано на семинаре)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#и-помнить-ответы",
+    "href": "ch_p.html#и-помнить-ответы",
+    "title": "2  глава 1 glava 1",
+    "section": "3.4 И помнить ответы",
+    "text": "3.4 И помнить ответы\n\n3.4.0.0.1 \n\n\nВычислить многомерную характеристическую функцию\nа) Для двумерных распределений винеровского процесса\nб) Для n-мерных распределений винеровского процесса",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#нормальные-винеровский-гауссовские-нормальные-винеровский-гауссовские",
+    "href": "ch_p.html#нормальные-винеровский-гауссовские-нормальные-винеровский-гауссовские",
+    "title": "2  глава 1 glava 1",
+    "section": "3.5 Нормальные, винеровский, гауссовские {#нормальные,-винеровский,-гауссовские}",
+    "text": "3.5 Нормальные, винеровский, гауссовские {#нормальные,-винеровский,-гауссовские}\n\n\nПокажите, что тогда указанные ниже векторы будут являться гауссовскими.\n(Для этого надо указать в явном виде матрицу C и вектор a из ЯКГВ.)\n\n—",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#section",
+    "href": "ch_p.html#section",
+    "title": "2  глава 1 glava 1",
+    "section": "3.6 ",
+    "text": "3.6",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#section-1",
+    "href": "ch_p.html#section-1",
+    "title": "2  глава 1 glava 1",
+    "section": "3.7 —",
+    "text": "3.7 —\n\n\n* ) Найти конечномерные плотности и конечномерные характеристические функции для процесса AR(1), стартующего из нуля.\n\n\n\n\n\n\n\n\n3.7.0.0.1",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#тема-ветвящиеся-процессы",
+    "href": "ch_p.html#тема-ветвящиеся-процессы",
+    "title": "2  глава 1 glava 1",
+    "section": "3.8 Тема Ветвящиеся процессы",
+    "text": "3.8 Тема Ветвящиеся процессы\n1)_\n\n\nЗдесь и далее переменная z - аргумент производящей функции\n—\n2)_\n\n—\n3)_\n\n\n—\n4)_\n\n\n—\n5*) Рассмотрим ветвящийся процесс, в котором\n\nНайти радиусы сходимости производящих функций с.в.\nZ1,Z2,Z3\nа) Какую закономерность вы заметили ?\nб) Что можно сказать о предельной картине относительно поведения радиусов сходимости при t ?\n—\n6)_\n\nб) распределение с.в.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#тема-стационарность-в-широком-смысле",
+    "href": "ch_p.html#тема-стационарность-в-широком-смысле",
+    "title": "2  глава 1 glava 1",
+    "section": "3.9 Тема Стационарность в широком смысле",
+    "text": "3.9 Тема Стационарность в широком смысле\n\n3.9.0.0.1 \nПроверьте по своим конспектам, умеете ли вы решать задачи, помеченные буквой З ?\n\nЗАДАЧА\n\nНайдите одномерные распределения процесса t из примера 2. З\n\nДля примера 2 З\n\nСледующий вопрос о произвольных КМР\nЗ\n\nКроме этого, ниже задания для энтузиастов. Если Вы решите что-то из списка ниже, напишите об этом в телеграм, получите ссылку для загрузки.\nА)\n\nДОКАЖИТЕ\n—\nБ1-Б2 )\n\n\nДОКАЖИТЕ стационарность в ШСм и получите вид ковариационной ф-ции.\n\nВ)\nВерно ли, что винеровский процесс можно считать центрированным процессом с ортогональными приращениями?\nДайте обоснованный ответ",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#снова-марковость",
+    "href": "ch_p.html#снова-марковость",
+    "title": "2  глава 1 glava 1",
+    "section": "3.10 Снова марковость",
+    "text": "3.10 Снова марковость",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "ch_p.html#section-4",
+    "href": "ch_p.html#section-4",
+    "title": "2  глава 1 glava 1",
+    "section": "3.11 … {#…}",
+    "text": "3.11 … {#…}\n\nНекоторые задачи в помощь магистрантам\nСкриншоты из поста Валерии Анатольевны\nТема Преобразование распределений\nодна с.в.\nсовместное распределение нескольких с.в., зависимые, независимые формула свертки и т.п.\nХарактеристические функции\nНормальные, винеровский, гауссовские\nТема Ветвящиеся процессы\nТема Стационарность в широком смысле\nСнова марковость\n…\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>глава 1 glava 1</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
